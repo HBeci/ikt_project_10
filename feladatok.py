@@ -13,17 +13,17 @@ print('feladat3')
 print('*o*o*o*o*o')
 print('*o*o*o*o*o')
 
-print('feladat3')
+print('feladat4')
 
 szam1 = int(input('adj meg egy számot:  '))
 szam2 = int(input('adj meg egy másik számot:  '))
 print('két szám összege:',szam1 + szam2,)
 
-print('feladat4')
+print('feladat5')
 
 szam1 = int(input('adj meg egy számot:  '))
 szam2 = int(input('adj meg egy másik számot:  '))
 szam3 = int(input('adj meg még egy számot:  '))
 print('két szám összege:',szam1 + szam2 + szam3,)
 
-print('feladat5')
+
